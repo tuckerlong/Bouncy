@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=icon
+comment0.target=Star(boolean)
+comment1.params=
+comment1.target=Star()
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ fall()
+numComments=5

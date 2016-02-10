@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Screen()
+comment1.params=sound
+comment1.target=void\ soundSet(boolean)
+comment2.params=points
+comment2.target=void\ increaseScore(int)
+comment3.params=
+comment3.target=void\ increaseState()
+comment4.params=
+comment4.target=boolean\ checkBoxes()
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=void\ menuSetup()
+comment7.params=
+comment7.target=void\ makeCredits()
+comment8.params=level
+comment8.target=void\ makeLevel(int)
+comment9.params=level
+comment9.target=void\ setupLevel(int)
+numComments=10
